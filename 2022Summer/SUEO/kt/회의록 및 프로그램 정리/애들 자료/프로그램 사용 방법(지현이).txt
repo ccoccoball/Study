@@ -1,0 +1,6 @@
+<프로그램 사용 방법>
+
+1) 있는 파일 sign language translation.py, dataset
+
+2) 사용 방법
+ sign language translation.py 내의 file = np.genfromtxt의 작은 따옴표 부분에 dataset 위치 삽입!
